@@ -1,10 +1,5 @@
 
-# Lab 2
-The Lab was about protocols allowing two devices to communicate with each other.
-The protocols were I2C, UART and a BMP280 sensor.
-  
-## Exercises
-  - [Exercise 1](ex1)
-  - [Exercise 2](ex2)
-  - [Exercise 3](ex3)
-  - [Exercise 4](ex4)
+# Exercise 2
+
+The exercise was to be able to find the code needed to display something in the OLED screen.
+We needed to familiarize ourselves with the arduino code necessary to make it work.
