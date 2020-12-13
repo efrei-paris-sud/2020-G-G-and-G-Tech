@@ -1,7 +1,7 @@
 
 
 # Exercise 1 
-A breif description of the goal of this exercise.
+The objective was to be able to read a numerical value of a buzzer and to be  able to change it.
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
@@ -19,9 +19,3 @@ void loop(){
   
 ## Board Image
 ![Board](Arduino_LED.gif?raw=true)
-
-To make a gif you can use [ezgif](https://ezgif.com/maker).
-## Issues
-- bla bla
-- bla bla
-- bla bla
