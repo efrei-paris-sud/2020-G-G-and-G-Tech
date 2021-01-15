@@ -5,8 +5,8 @@
 
 
 
-[Team Report](https://github.com/efrei-paris-sud/2020-G-G-and-G-Techproject/doc/IoT_report.pdf) 
+[Team Report](https://github.com/efrei-paris-sud/2020-G-G-and-G-Tech/tree/main/project/doc/IoT_report.pdf) 
 
-[Team Presentation](The_Sunset_Coverfew_Alert.pptx)
+[Team Presentation](https://github.com/efrei-paris-sud/2020-G-G-and-G-Tech/tree/main/project/doc/The_Sunset_Coverfew_Alert.pptx)
 
 
