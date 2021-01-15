@@ -5,9 +5,9 @@
 
 
 
-[Team Report](doc/IoT report.pdf) 
+[Team Report](project/doc/IoT report.pdf) 
 
-[Team Presentation](doc/The Sunset Coverfew Alert.pptx)
+[Team Presentation](The Sunset Coverfew Alert.pptx)
 
 # Working Video
 
